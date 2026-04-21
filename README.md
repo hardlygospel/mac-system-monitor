@@ -1,4 +1,6 @@
 # 📊 Mac Stats
+
+[![Stars](https://img.shields.io/github/stars/hardlygospel/mac-system-monitor?style=for-the-badge&color=yellow)](https://github.com/hardlygospel/mac-system-monitor/stargazers) [![Forks](https://img.shields.io/github/forks/hardlygospel/mac-system-monitor?style=for-the-badge&color=blue)](https://github.com/hardlygospel/mac-system-monitor/network/members) [![Last Commit](https://img.shields.io/github/last-commit/hardlygospel/mac-system-monitor?style=for-the-badge&color=green)](https://github.com/hardlygospel/mac-system-monitor/commits) [![License](https://img.shields.io/github/license/hardlygospel/mac-system-monitor?style=for-the-badge)](https://github.com/hardlygospel/mac-system-monitor/blob/main/LICENSE)
 ### *Modern TUI system monitor for macOS*
 
 > Beautiful 256-colour terminal dashboard — CPU, memory, network, disk and process management, all in one view. 🖥️
